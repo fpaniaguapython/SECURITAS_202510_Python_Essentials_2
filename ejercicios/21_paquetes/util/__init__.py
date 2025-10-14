@@ -1,0 +1,1 @@
+print('Ejecutando el __init__.py del paquete util')
