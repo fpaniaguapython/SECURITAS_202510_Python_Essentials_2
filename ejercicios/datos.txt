@@ -1,0 +1,4 @@
+imagen1.jpg
+imagen2.jpg
+video1.mpg
+video2.avi
