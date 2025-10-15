@@ -1,0 +1,1 @@
+print('Este es el módulo de recursos humanos')
