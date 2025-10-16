@@ -22,6 +22,9 @@ jose_david = Cliente('José David', 'jose.david@gmail.com', 10_000)
 alejandro = Cliente('Alejandro', 'alejandro@hotmail.com', 5_000)
 arancha = Cliente('Arancha', 'arancha@microsoft.com', 12_000)
 
+# Invocación al método
+alejandro.incrementar_saldo(20)
+
 # Guardar las instancias una lista
 clientes = [jose_david, alejandro, arancha]
 
