@@ -13,12 +13,14 @@ class Automovil(Vehiculo):
         self.numero_ruedas = numero_ruedas
     
     def saludar(self):
-        print('Soy Automovil')
+        print('Soy Automovil') # Soy Automovil
+        # super().saludar() # Soy Vehiculo --> Se puede invocar a la versión de la clase base del método
 
 
 mi_automovil = Automovil('Seat', 'Panda', 4, 4)
 print(isinstance(mi_automovil, Automovil)) # True
 print(isinstance(mi_automovil, Vehiculo)) # True --> Polimorfismo
 mi_automovil.saludar() # Soy Automovil
+
 
 

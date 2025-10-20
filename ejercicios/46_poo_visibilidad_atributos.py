@@ -22,7 +22,8 @@ print(arancha._Empleado__salario) # 30000
 print(arancha.__dict__)
 print(arancha.saludar())
 # arancha.__subir_salario(1000) # Error
+arancha._Empleado__subir_salario(1000)
 
-print(arancha.__dict__)
+print('*', arancha.__dict__)
 arancha.__salario = 5000 # ¡OJO! Esta sentencia crea un nuevo atributo __salario
 print(arancha.__dict__)
