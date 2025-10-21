@@ -1,0 +1,3 @@
+Este texto se deber� escribir en el fichero salida_estandar.txt
+Este texto se deberá escribir en el fichero salida_estandar.txt
+Este texto se deberá escribir en el fichero salida_estandar.txt
