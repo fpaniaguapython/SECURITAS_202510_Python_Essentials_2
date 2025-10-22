@@ -1,0 +1,26 @@
+<factura id='1008'>
+    <cliente>
+        <nombre>Pepita S.L.U.</nombre>
+        <CIF>38347843D</CIF>
+    </cliente>
+    <items>
+        <item>
+            <id>18</id>
+            <nombre>Cable Ethernet</nombre>
+            <unidades>5</unidades>
+            <precio_unitario>17</precio_unitario>
+        </item>
+        <item>
+            <id>18</id>
+            <nombre>Cable Ethernet</nombre>
+            <unidades>5</unidades>
+            <precio_unitario>17</precio_unitario>
+        </item>
+        <item>
+            <id>18</id>
+            <nombre>Cable Ethernet</nombre>
+            <unidades>5</unidades>
+            <precio_unitario>17</precio_unitario>
+        </item>
+    </items>
+</factura>

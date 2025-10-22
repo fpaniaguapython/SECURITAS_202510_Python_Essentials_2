@@ -1,0 +1,31 @@
+{
+    "factura": {
+        "cliente": {
+            "nombre": "Pepita S.L.U.",
+            "CIF": "38347843D"
+        },
+        "items": {
+            "item": [
+                {
+                    "id": "18",
+                    "nombre": "Cable Ethernet",
+                    "unidades": "5",
+                    "precio_unitario": "17"
+                },
+                {
+                    "id": "18",
+                    "nombre": "Cable Ethernet",
+                    "unidades": "5",
+                    "precio_unitario": "17"
+                },
+                {
+                    "id": "18",
+                    "nombre": "Cable Ethernet",
+                    "unidades": "5",
+                    "precio_unitario": "17"
+                }
+            ]
+        },
+        "_id": "1008"
+    }
+}
